@@ -1,4 +1,3 @@
-!pip install tldextract
 import re
 import urllib.parse
 import tldextract
