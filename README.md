@@ -25,16 +25,16 @@ _(No installation needed – runs entirely in the browser!)_
 ## 🧪 Sample URLs to Test
 
 ### 🔴 Phishing-like Examples
-http://paypal.account.verify-login.com
-http://secure-appleid.apple.com.verify-login.tk
-http://bankofamerica.verify-security-alert.cf
-http://linkedin-connect-update.ml
+** http://paypal.account.verify-login.com **
+** http://secure-appleid.apple.com.verify-login.tk **
+** http://bankofamerica.verify-security-alert.cf ** 
+** http://linkedin-connect-update.ml **
 
 
 ### 🟢 Legitimate Examples
-https://www.google.com
-https://www.amazon.com
-https://www.linkedin.com
+** https://www.google.com **
+** https://www.amazon.com **
+** https://www.linkedin.com **
 
 
 ---
@@ -52,10 +52,10 @@ https://www.linkedin.com
 ## 📁 How to Run Locally
 
 bash
-git clone https://github.com/Jawaharparvez/Phishing-URL-Detection-System.git
-cd Phishing-URL-Detection-System
-pip install -r requirements.txt
-streamlit run app.py
+** git clone https://github.com/Jawaharparvez/Phishing-URL-Detection-System.git **
+** cd Phishing-URL-Detection-System **
+** pip install -r requirements.txt **
+** streamlit run app.py **
 
 ## 📜 License
 
